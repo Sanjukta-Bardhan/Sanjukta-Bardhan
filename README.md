@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi I’m Sanjukta Bardhan , a full-stack developer from India 
 
-[![](https://komarev.com/ghpvc/?username=Sanjukta-Bardhan&icon=0&color=3)](https://visitcount.itsvg.in)
+<!-- [![](https://komarev.com/ghpvc/?username=Sanjukta-Bardhan&icon=0&color=3)](https://visitcount.itsvg.in)-->
 
 
 # 💻 Tech Stack:
